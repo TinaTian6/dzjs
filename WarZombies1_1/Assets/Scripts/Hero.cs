@@ -26,7 +26,7 @@ public class Hero : MonoBehaviour {
         }else{
             a.SetBool("RunBool", false);
             print("2");
-
+            print("3");
         }
 
     

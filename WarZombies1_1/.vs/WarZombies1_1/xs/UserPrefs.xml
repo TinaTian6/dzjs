@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{BBA69AD8-2806-E600-8A30-4D4138F90BDC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Hero.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Hero.cs" Line="31" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WarZombies1__1 PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
