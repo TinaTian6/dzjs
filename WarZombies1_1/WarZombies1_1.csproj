@@ -318,16 +318,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Model\Chibi Mummy\Misc\Scripts\buttonControl_script.cs" />
-    <Compile Include="Assets\Model\Chibi Mummy\Misc\Scripts\CharMovement.cs" />
     <Compile Include="Assets\Scripts\AI.cs" />
     <Compile Include="Assets\Scripts\CameraLookAtPlayer.cs" />
+    <Compile Include="Assets\Scripts\CameraMove.cs" />
     <Compile Include="Assets\Scripts\Hero.cs" />
+    <Compile Include="Assets\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\WayPoint.cs" />
+    <Compile Include="Assets\StarTools\Assets\CoronaRotator.cs" />
+    <Compile Include="Assets\StarTools\Assets\Misc\CamCont.cs" />
+    <Compile Include="Assets\StarTools\Assets\Misc\MorphStar.cs" />
+    <Compile Include="Assets\StarTools\Assets\Star.cs" />
+    <Compile Include="Assets\StarTools\Assets\StarRotator.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Cartoon Temple Building Kit\ReadMe.txt" />
-    <None Include="Assets\Model\Chibi Mummy\readme.txt" />
+    <None Include="Assets\Model\Cartoon Temple Building Kit\ReadMe.txt" />
+    <None Include="Assets\StarTools\Assets\3DStarShader.shader" />
+    <None Include="Assets\StarTools\Assets\CoronaShader.shader" />
+    <None Include="Assets\StarTools\Assets\WebGLNoisePort\noiseSimplex.cginc" />
+    <None Include="Assets\StarTools\Assets\noiseHelper.cginc" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

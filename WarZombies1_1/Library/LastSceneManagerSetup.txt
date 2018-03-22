@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Cartoon Temple Building Kit/Scenes/Example Scene 8.unity
+- path: Assets/Scenes/Dome.unity
   isLoaded: 1
   isActive: 1

@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio for Mac
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarZombies1_1", "WarZombies1_1.csproj", "{BBA69AD8-2806-E600-8A30-4D4138F90BDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarZombies1_1.Editor", "WarZombies1_1.Editor.csproj", "{90E38F97-CB3B-669C-4563-BB2A3C3DBFB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{BBA69AD8-2806-E600-8A30-4D4138F90BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBA69AD8-2806-E600-8A30-4D4138F90BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBA69AD8-2806-E600-8A30-4D4138F90BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E38F97-CB3B-669C-4563-BB2A3C3DBFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E38F97-CB3B-669C-4563-BB2A3C3DBFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E38F97-CB3B-669C-4563-BB2A3C3DBFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E38F97-CB3B-669C-4563-BB2A3C3DBFB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
